@@ -6,16 +6,13 @@ import { useAuthState } from 'react-firebase-hooks/auth'
 import { useNavigate } from 'react-router-dom'
 const Navbar = () => {
   const [user] = useAuthState(auth)
-  const navigate= useNavigate()
+  const navigate = useNavigate()
 
 
   const handlesSignout = async () => {
-    console.log("signout cliked")
-    const result= await signOut(auth)
+    const result = await signOut(auth)
     navigate("/")
     window.location.reload()
-
-
   }
   return (
     <div className='flex  items-center justify-end text-black-600 m-auto p-6 mb-6 bg-blue-400 ' >
