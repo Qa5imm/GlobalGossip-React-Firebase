@@ -16,10 +16,11 @@ It has backend running on **`Firebase`**
 You can visit the site [here](https://sharedthoughts-aa02a.web.app/).
 
 ## How to use code
-You can clone code to your local repositry using github commands\
-Then you have to run `npm install` to install all packages\
-Finally you can you run it on localhost using `npm run start`
+Clone code to your local repositry using github `git clone https://github.com/Qa5imm/GlobalGossip-React-Firebase.git`
 
+Run `npm install` to install all required packages.
+
+Run `npm run start` to run it on localhost.
 
 
 
