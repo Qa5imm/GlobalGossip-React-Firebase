@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  
 ## About the App:
 
-It is social app where you can your everyday gossip and also like somones gossip. You can login with your google account after which you will directed to home page having all global gossips. You can also make a gossip and like others gossip. One key feature that it has is that you cannot delete your gossip once you make it, similar to what happens in real world. Therefore, be wise on what you say.It's not the final form of the app. Some features are underway and hopefully will added in the future.
+It is social app where you can post your everyday gossip and also like somones gossip. You can login with your google account after which you will directed to home page having all global gossips. You can also make a gossip and like others gossip. One key feature that it has is that you cannot delete your gossip once you make it, similar to what happens in real world. Therefore, be wise on what you say.It's not the final form of the app. Some features are underway and hopefully will added in the future.
 
 
 ## Technolgies:
