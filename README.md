@@ -7,13 +7,13 @@ It is social app where you can your everyday gossip and also like somones gossip
 
 
 ## Technolgies:
-It has frontend made in ### `React(Typescript)` and ### `Tailwind CSS` 
+It has frontend made in  **`React(Typescript)`** and  **`Tailwind CSS`**
 
 It has backend running on `Firebase`.
 
 
 ## Where to visit
-You can visit the site at (https://sharedthoughts-aa02a.web.app/).
+You can visit the site at [here](https://sharedthoughts-aa02a.web.app/).
 
 ## How to use code
 You can clone code to your local repositry using github commands\
