@@ -1,46 +1,27 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+ 
+### About the App:
 
-In the project directory, you can run:
+It is social app where you can your everyday gossip and also like somones gossip. You can login with your google account after which you will directed to home page having all global gossips. You can also make a gossip and like others gossip. One key feature that it has is that you cannot delete your gossip once you make it, similar to what happens in real world. Therefore, be wise on what you say.It's not the final form of the app. Some features are underway and hopefully will added in the future.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+###Technolgies:
+It has frontend made in `React(Typescript)` and `Tailwind CSS` 
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+It has backend running on `Firebase`.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###Where to visit
+You can visit the site at (https://sharedthoughts-aa02a.web.app/).
 
-### `npm run build`
+###How to use code
+You can clone code to your local repositry using github commands\
+Then you have to run `npm install` to install all packages
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Finally you can you run it on localhost using `npm run start`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
